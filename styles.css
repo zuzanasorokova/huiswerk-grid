@@ -57,9 +57,6 @@ container {
 
 @media screen and (min-width: 576px) {
     container {
-        background-color: #fde8d8;
-        color: white;
-        padding: 16px;
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
         grid-template-rows: 50px 190px 100px auto 50px;
